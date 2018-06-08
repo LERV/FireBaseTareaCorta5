@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "975482908749",
+    "firebase_url": "https://fir-tarea-3a846.firebaseio.com",
+    "project_id": "fir-tarea-3a846",
+    "storage_bucket": "fir-tarea-3a846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975482908749:android:b5b1015ef01a3579",
+        "android_client_info": {
+          "package_name": "com.luis.edward.firebasetareacorta6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975482908749-jr5442qse3hugriesr7oss5pshkgpfer.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "975482908749-jr5442qse3hugriesr7oss5pshkgpfer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRaejuQCaffPi4nx2Xg1C_NrheZ1_Svl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
